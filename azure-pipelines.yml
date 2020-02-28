@@ -5,6 +5,7 @@
 
 trigger:
 - master
+- feature/feature-123
 
 pool:
   vmImage: 'ubuntu-latest'
